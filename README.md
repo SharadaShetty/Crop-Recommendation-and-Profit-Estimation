@@ -203,9 +203,9 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ---
 
 ## ✉️ Contact
+For questions or feedback, feel free to reach out:
+- **Email:** <sharadashetty03@gmail.com>, <shivamsingh271104@gmail.com>  
+- **GitHub**: [Sharada Shetty](https://github.com/SharadaShetty)
+              [shvm2](https://github.com/shvm2)
 
-- **Maintainer:** Shivam  
-- **Email:** shivamsingh271104@gmail.com  
-- **GitHub:** [shvm2](https://github.com/shvm2)
-
-Feel free to raise issues or feature requests—happy farming! 🌱
+happy farming! 🌱
